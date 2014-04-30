@@ -1,0 +1,26 @@
+title:            Tecnologicamente Arretado
+description:      Um podcast arretado sobre tecnologia
+url:              tecnologicamentearretado.com.br
+signoff:          Gregório Melo
+disqus_shortname: tecnologicamentearretado
+facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+google_analytics: UA-50519437-1
+
+links:
+  - name:         Sobre
+    url:          /sobre
+  - name:         Podcast
+    url:          http://tecnologicamentearretado.com.br
+    external:     true
+  - name:         Twitter
+    url:          http://twitter.com/tecno_arretado
+    external:     true
+  - name:         GitHub
+    url:          http://github.com/tecnologicamentearretado
+    external:     true
+pygments:         true
+permalink:        pretty
+markdown:         redcarpet
+redcarpet:
+  extensions:
+    - smart
