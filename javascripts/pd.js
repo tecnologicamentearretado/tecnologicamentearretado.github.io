@@ -14,12 +14,12 @@ function prettyDate ( timeObj ) {
   if ( isNaN(day_diff) || day_diff < 0 )
     return;
 
-  return day_diff == 0 && "Today" ||
-    day_diff == 1 && "Yesterday" ||
-    day_diff < 7 && day_diff + " days ago" ||
-    day_diff < 31 && pluralize(Math.round( day_diff / 7 ), "week") + " ago" ||
-    day_diff < 366 && pluralize( Math.round( day_diff / 7 / 4 ), "month") + " ago" ||
-    day_diff >= 366 && pluralize( Math.round( day_diff / 7 / 4 / 12 ), "year") + " ago";
+  return day_diff == 0 && "Hoje" ||
+    day_diff == 1 && "Ontem" ||
+    day_diff < 7 && "Há " + day_diff + " dias" ||
+    day_diff < 31 && "Há " + Math.round( day_diff / 7 ) + " semanas" ||
+    day_diff < 366 && "Há " + Math.round( day_diff / 7 / 4 ) + " meses" ||
+    day_diff >= 366 && "Há " + Math.round( day_diff / 7 / 4 / 12 ) + " anos";
 }
 
 $(function(){
