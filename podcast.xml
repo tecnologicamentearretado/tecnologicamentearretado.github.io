@@ -1,0 +1,73 @@
+---
+layout: nil
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+<channel>
+
+<title>Tecnologicamente Arretado</title>
+
+<link>http://tecnologicamentearretado.com.br</link>
+
+<language>pt</language>
+
+<copyright>&#xA9; 2014 Gregório Melo</copyright>
+
+<itunes:subtitle>Um podcast arretado sobre tecnologia</itunes:subtitle>
+
+<itunes:author>Gregório Melo</itunes:author>
+
+<itunes:keywords>desenvolvimento de software, tecnologia</itunes:keywords>
+
+<itunes:summary>Um podcast arretado sobre tecnologia</itunes:summary>
+
+<description>Um podcast arretado sobre tecnologia</description>
+
+<itunes:owner>
+
+<itunes:name>Gregório Melo</itunes:name>
+
+<itunes:email>tecnologicamentearretado@gregoriomelo.com</itunes:email>
+
+</itunes:owner>
+
+<itunes:image href="http://tecnologicamentearretado.com.br/images/scribble.png" />
+
+<itunes:category text="Technology" />
+
+<itunes:new-feed-url>http://tecnologicamentearretado.com.br/podcast.xml</itunes:new-feed-url>
+
+{% for post in site.posts limit:10 %}
+
+  <item>
+
+    <title>{{ post.title }}</title>
+
+    <itunes:author>Gregório Melo</itunes:author>
+
+    <itunes:subtitle>{{ post.title }}</itunes:subtitle>
+
+    <itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
+
+    <itunes:image href="http://tecnologicamentearretado.com.br/images/scribble.png" />
+
+    <enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/x-m4a" />
+
+    <guid>{{ post.link }}</guid>
+
+    <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
+
+    <itunes:duration>{{ post.duration }}</itunes:duration>
+
+    <itunes:keywords>desenvolvimento de software, tecnologia</itunes:keywords>
+
+  </item>
+
+{% endfor %}
+
+</channel>
+
+</rss>
