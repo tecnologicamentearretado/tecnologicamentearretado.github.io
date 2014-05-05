@@ -4,9 +4,9 @@ title:  "Entrega Contínua com Marco Valtas"
 date:   2014-04-30 19:00:00
 disqus: y
 share:  y
-duration: 46:00
-length: 44,190,221
-link: https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/001-marco_valtas/001-marco_valtas_editado_128.mp3
+duration: 46:02
+length: 44190221
+audio: https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/001-marco_valtas/001-marco_valtas_editado_128.mp3
 summary: Gregório recebe Marco Valtas para falar sobre entrega contínua.
 categories: 
 ---
