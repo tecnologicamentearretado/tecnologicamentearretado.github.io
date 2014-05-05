@@ -56,9 +56,9 @@ layout: nil
 
         <itunes:image href="http://tecnologicamentearretado.com.br/images/logo.jpg" />
 
-        <link>{{ post.link }}</link>
+        <link>{{ post.audio }}</link>
 
-        <enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/mpeg" />
+        <enclosure url="{{ post.audio }}" length="{{ post.length }}" type="audio/mpeg" />
 
         <guid>{{ post.audio }}</guid>
 
