@@ -56,11 +56,11 @@ layout: nil
 
         <itunes:image href="http://tecnologicamentearretado.com.br/images/logo.jpg" />
 
-        <link>{{ post.audio }}</link>
+        <link>{{ post.link }}</link>
 
-        <enclosure url="{{ post.audio }}" length="{{ post.length }}" type="audio/mpeg" />
+        <enclosure url="{{ post.link }}" length="{{ post.length }}" type="audio/mpeg" />
 
-        <guid>{{ post.audio }}</guid>
+        <guid>{{ post.link }}</guid>
 
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
 
