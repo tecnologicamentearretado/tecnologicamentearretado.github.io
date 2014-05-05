@@ -52,7 +52,7 @@ layout: nil
 
         <itunes:summary>{{ post.summary | xml_escape }} | http://{{ site.url }}{{ post.url }}</itunes:summary>
 
-        <description>{{ post.summary | xml_escape }} | http://{{ site.url }}{{ post.url }}</description>
+        <description><![CDATA[{{ post.summary | xml_escape }} | http://{{ site.url }}{{ post.url }}]]></description>
 
         <itunes:image href="http://tecnologicamentearretado.com.br/images/logo.jpg" />
 
