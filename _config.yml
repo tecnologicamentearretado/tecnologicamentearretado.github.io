@@ -9,6 +9,10 @@ google_analytics: UA-50519437-1
 links:
   - name:         Sobre
     url:          /sobre
+  - name:         Podcast no iTunes
+    url:          https://itunes.apple.com/br/podcast/tecnologicamente-arretado/id873915897
+  - name:         Feed do podcast
+    url:          /podcast.xml
   - name:         Twitter
     url:          http://twitter.com/tecno_arretado
     external:     true
