@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Entrega Contínua com Marco Valtas"
-date:   2014-04-30 19:00:00
+date:   2014-05-06 10:00:00
 disqus: y
 share:  y
 duration: 46:02
