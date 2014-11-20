@@ -17,6 +17,8 @@ Internet livre com Luca Bastos
 
 Baixe o áudio desta conversa [aqui](https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/002-luca_bastos/002-luca_bastos128.mp3).
 
+Entrevista por [Gregório Melo](https://twitter.com/gregoriomelo)
+
 Música de entrada e edição de áudio por [Marco Valtas](https://twitter.com/mavcunha)
 
 Notas:

@@ -17,6 +17,8 @@ Escalabilidade e Emuladores com Leandro Moreira
 
 Baixe o áudio desta conversa [aqui](https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/003-leandro_moreira/003_leandro_moreira128.mp3).
 
+Entrevista por [Gregório Melo](https://twitter.com/gregoriomelo)
+
 Música de entrada e edição de áudio por [Marco Valtas](https://twitter.com/mavcunha)
 
 Notas:
