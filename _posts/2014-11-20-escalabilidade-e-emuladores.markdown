@@ -7,7 +7,7 @@ share:  y
 duration: 28:38
 length: 27489946
 link: https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/003-leandro_moreira/003_leandro_moreira128.mp3
-summary: Gregório recebe Luca Bastos para falar sobre privacidade, segurança e políticas de controle da Internet
+summary: Gregório recebe Leandro Moreira para falar sobre escalabilidade e emuladores
 categories: 
 ---
 
