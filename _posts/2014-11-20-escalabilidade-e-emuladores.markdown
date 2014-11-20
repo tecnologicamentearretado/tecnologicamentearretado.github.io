@@ -28,11 +28,7 @@ Notas:
   - [Graphite](http://graphite.readthedocs.org/en/latest)
   - [Logstash](http://logstash.net)
   - [Player de vídeo](https://github.com/globocom/clappr)
-  - Posts sobre escalabilidade
-    - (http://dak1n1.com/blog/10-3-million-http-cluster)
-    - (http://dak1n1.com/blog/14-http-load-generate)
-    - (http://dak1n1.com/blog/12-nginx-performance-tuning)
-    - (http://dak1n1.com/blog/13-load-balancing-lvs)
+  - [Tuning Nginx for Best Performance](http://dak1n1.com/blog/12-nginx-performance-tuning)
   - Livros
     - [Systems Performance: Enterprise and th e Cloud](http://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098/ref=sr_1_1?ie=UTF8&qid=1402235987&sr=8-1&keywords=system+performance)
     - [High Performance Browser Networking](http://www.amazon.com.br/High-Performance-Browser-Networking-performance-ebook/dp/B00FM0OC4S)
