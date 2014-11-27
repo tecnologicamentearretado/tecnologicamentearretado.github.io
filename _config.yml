@@ -7,6 +7,8 @@ facebook_appid:   # appid for like button, remove from /_includes/share.html if 
 google_analytics: UA-50519437-1
 
 links:
+  - name:         Sobre
+    url:          /sobre
   - name:         Podcast no iTunes
     url:          https://itunes.apple.com/br/podcast/tecnologicamente-arretado/id873915897
   - name:         Feed do podcast
