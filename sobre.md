@@ -1,6 +1,8 @@
 ---
 layout: page
-title: About
+title: Sobre
 ---
 
-Tecnologicamente arretado
+Um podcast batráquio com grandes amigos falando um monte de coisas relacionadas à produção de software.
+
+Humildemente hospedado por [Gregório Melo](https://twitter.com/gregorio_melo) e [Marco Valtas](https://twitter.com/mavcunha)
