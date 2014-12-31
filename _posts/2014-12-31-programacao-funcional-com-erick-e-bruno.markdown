@@ -23,6 +23,8 @@ Música de entrada e edição de áudio por [Marco Valtas](https://twitter.com/m
 
 Notas:
 
+- Erick Pintor [no Twitter](https://twitter.com/erickpintor) ou [no GitHub](https://github.com/erickpintor)
+- Bruno Tavares [no Twitter](https://twitter.com/bltavares), [no blog](http://blog.bltavares.com/) ou [no GitHub](https://github.com/bltavares)
 - [Palestra sobre ClojureScript](https://www.youtube.com/watch?v=V1Eu9vZaDYw)
 - [Curso de Programação Funcional com Scala no Coursera](https://www.coursera.org/course/progfun)
 - Ferramentas que ajudam no aprendizado de Clojure:
