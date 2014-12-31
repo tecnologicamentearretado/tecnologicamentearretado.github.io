@@ -13,7 +13,7 @@ categories:
 
 Escalabilidade e Emuladores com Leandro Moreira
 
-<audio src="https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/003-leandro_moreira/003_leandro_moreira128.mp3" preload="auto" />
+<audio src="https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/003-leandro_moreira/003_leandro_moreira128.mp3" preload="none" />
 
 Baixe o áudio desta conversa [aqui](https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/003-leandro_moreira/003_leandro_moreira128.mp3).
 

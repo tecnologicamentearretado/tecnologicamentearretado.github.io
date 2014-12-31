@@ -13,7 +13,7 @@ categories:
 
 Análise de negócio com Lourenço Soares
 
-<audio src="https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/004-lourenco_soares/004_lourenco_soares.mp3" preload="auto" />
+<audio src="https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/004-lourenco_soares/004_lourenco_soares.mp3" preload="none" />
 
 Baixe o áudio desta conversa [aqui](https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/004-lourenco_soares/004_lourenco_soares.mp3).
 

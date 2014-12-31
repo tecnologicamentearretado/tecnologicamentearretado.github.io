@@ -13,7 +13,7 @@ categories:
 
 Entrega contínua com Marco Valtas
 
-<audio src="https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/001-marco_valtas/001-marco_valtas_editado_128.mp3" preload="auto" />
+<audio src="https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/001-marco_valtas/001-marco_valtas_editado_128.mp3" preload="none" />
 
 Baixe o áudio desta conversa [aqui](https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/001-marco_valtas/001-marco_valtas_editado_128.mp3).
 
