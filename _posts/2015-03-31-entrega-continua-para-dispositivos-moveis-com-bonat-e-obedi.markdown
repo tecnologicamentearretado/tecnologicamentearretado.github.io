@@ -23,6 +23,9 @@ Música de entrada por [Marco Valtas](https://twitter.com/mavcunha)
 
 Notas:
 
+- No Twitter:
+  - [Adriano Bonat](https://twitter.com/tanob)
+  - [Obedi Ferreira](https://twitter.com/obehdi)
 - [Crashlytics](https://try.crashlytics.com/)
 - [HockeyApp](http://hockeyapp.net/features/)
 - [Appium](http://appium.io/)
