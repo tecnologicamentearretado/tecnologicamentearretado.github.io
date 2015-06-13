@@ -18,7 +18,7 @@ layout: nil
       <itunes:email>tecnologicamentearretado@gregoriomelo.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://tecnologicamentearretado.com.br/images/logo.png" />
+    <itunes:image href="http://tecnologicamentearretado.com.br/images/logo_itunes.png" />
     <itunes:category text="Technology">
       <itunes:category text="Software How-To"/>
     </itunes:category>
@@ -26,7 +26,7 @@ layout: nil
     <image>
       <title>Tecnologicamente Arretado</title>
       <url>
-        http://tecnologicamentearretado.com.br/images/logo.png
+        http://tecnologicamentearretado.com.br/images/logo_itunes.png
       </url>
       <link>{{ site.url }}</link>
     </image>
