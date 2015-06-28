@@ -4,11 +4,11 @@ title:  "AngularJS com Daniel Amorim e Tania Gonzales"
 date:   2015-01-17 00:00:00
 disqus: y
 share:  y
-duration: 30:47
+duration: "30:47"
 length: 29550940
 link: https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/006-daniel_e_tania/006-daniel_e_tania.mp3
 summary: Gregório recebe Daniel Amorim e Tania Gonzales para falar sobre AngularJS
-categories: 
+categories:
 ---
 
 AngularJS com Daniel Amorim e Tania Gonzales

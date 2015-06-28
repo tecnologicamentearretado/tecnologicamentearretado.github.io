@@ -4,7 +4,7 @@ title:  "Programação funcional com Erick Pintor e Bruno Tavares"
 date:   2014-12-31 10:00:00
 disqus: y
 share:  y
-duration: 55:28
+duration: "55:28"
 length: 66568797
 link: https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/005-bruno_e_erick/005_bruno_e_erick.mp3
 summary: Gregório e Marco recebem Erick Pintor e Bruno Tavares para conversar sobre programação funcional

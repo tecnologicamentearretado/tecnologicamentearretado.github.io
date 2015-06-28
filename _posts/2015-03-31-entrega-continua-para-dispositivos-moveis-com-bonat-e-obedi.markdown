@@ -4,7 +4,7 @@ title:  "Entrega Contínua para dispositivos móveis com Adriano Bonat e Obedi F
 date:   2015-03-31 00:00:00
 disqus: y
 share:  y
-duration: 47:30
+duration: "47:30"
 length: 45600981
 link: https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/009-bonat_e_obedi/009-bonat_e_obedi.mp3
 summary: Gregório e Marco recebem Adriano e Obedi para falar sobre entrega contínua para dispositivos móveis

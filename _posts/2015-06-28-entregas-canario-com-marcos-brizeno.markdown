@@ -4,7 +4,7 @@ title:  "Entregas canário com Marcos Brizeno"
 date:   2015-06-28 10:00:00
 disqus: y
 share:  y
-duration: 53:27
+duration: "53:27"
 length: 103245476
 link: https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/012-marcos_brizeno/012-marcos_brizeno.m4a
 summary: Gregório e Marco têm uma conversa bacana com o Marcos Brizeno sobre sua experiência atualizando versões do Ruby e do Rails numa aplicação gigante, e como entregas canário ajudaram

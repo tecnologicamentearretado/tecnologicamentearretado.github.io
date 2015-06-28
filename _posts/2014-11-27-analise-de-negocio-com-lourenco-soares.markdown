@@ -4,7 +4,7 @@ title:  "Análise de negócio com Lourenço Soares"
 date:   2014-11-27 10:00:00
 disqus: y
 share:  y
-duration: 1:01:17
+duration: "1:01:17"
 length: 73537744
 link: https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/004-lourenco_soares/004_lourenco_soares.mp3
 summary: Gregório e Marco recebem Lourenço Soares para falar sobre análise de negócio

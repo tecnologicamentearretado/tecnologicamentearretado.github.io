@@ -4,7 +4,7 @@ title:  "Internet das coisas com Desiree Santos"
 date:   2015-06-13 10:00:00
 disqus: y
 share:  y
-duration: 53:29
+duration: "53:29"
 length: 38513339
 link: https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/011-desiree/011-desiree.mp3
 summary: Gregório e Marco têm uma conversa bacana sobre Internet das coisas com Desiree Santos

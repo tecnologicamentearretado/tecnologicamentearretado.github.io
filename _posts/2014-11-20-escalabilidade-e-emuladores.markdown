@@ -4,7 +4,7 @@ title:  "Escalabilidade e Emuladores com Leandro Moreira"
 date:   2014-11-20 00:20:00
 disqus: y
 share:  y
-duration: 28:38
+duration: "28:38"
 length: 27489946
 link: https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/003-leandro_moreira/003_leandro_moreira128.mp3
 summary: Gregório recebe Leandro Moreira para falar sobre escalabilidade e emuladores

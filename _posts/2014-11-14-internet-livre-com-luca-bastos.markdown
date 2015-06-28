@@ -4,7 +4,7 @@ title:  "Internet livre com Luca Bastos"
 date:   2014-11-14 10:00:00
 disqus: y
 share:  y
-duration: 35:47
+duration: "35:47"
 length: 34346686
 link: https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/002-luca_bastos/002-luca_bastos128.mp3
 summary: Gregório recebe Luca Bastos para falar sobre privacidade, segurança e políticas de controle da Internet

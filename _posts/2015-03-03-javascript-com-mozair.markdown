@@ -4,7 +4,7 @@ title:  "JavaScript com Mozair"
 date:   2015-03-03 00:00:00
 disqus: y
 share:  y
-duration: 51:13
+duration: "51:13"
 length: 49175841
 link: https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/008-mozair/008-mozair.mp3
 summary: Gregório e Marco recebem Mozair para falar sobre JavaScript

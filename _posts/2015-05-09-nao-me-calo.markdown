@@ -4,7 +4,7 @@ title:  "O projeto 'Não me calo' com Adriane, Karen e Tania"
 date:   2015-05-09 21:00:00
 disqus: y
 share:  y
-duration: 29:58
+duration: "29:58"
 length: 28775734
 link: https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/010-naomecalo/010-naomecalo.mp3
 summary: Gregório recebe Adriane, Karen e Tania para falar sobre o projeto 'Não me calo'
