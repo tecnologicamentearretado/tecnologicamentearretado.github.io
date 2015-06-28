@@ -30,7 +30,7 @@ layout: nil
       </url>
       <link>{{ site.url }}</link>
     </image>
-    {% for post in site.posts limit:10 %}
+    {% for post in site.posts %}
       <item>
         <title>{{ post.title }}</title>
         <itunes:author>Gregório Melo</itunes:author>
