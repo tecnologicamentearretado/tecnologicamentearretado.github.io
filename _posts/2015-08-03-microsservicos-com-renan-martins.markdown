@@ -26,6 +26,7 @@ Notas:
 - Renan na Internet:
   - [Twitter](https://twitter.com/renan89)
   - [GitHub](https://github.com/renanmartins)
+- [Minas Testing Conference](http://www.minastestingconference.com.br/)
 - [Building Microservices](http://shop.oreilly.com/product/0636920033158.do)
 - [Artigos do Martin Fowler sobre microsserviços](http://martinfowler.com/tags/microservices.html)
 - [SimianArmy](https://github.com/Netflix/SimianArmy)
