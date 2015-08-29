@@ -6,16 +6,16 @@ disqus: y
 share:  y
 duration: "46:02"
 length: 44190221
-link: https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/001-marco_valtas/001-marco_valtas_editado_128.mp3
+link: http://files.tecnologicamentearretado.com.br/entrevistas/001-marco_valtas/001-marco_valtas_editado_128.mp3
 summary: Gregório recebe Marco Valtas para falar sobre entrega contínua.
 categories: 
 ---
 
 Entrega contínua com Marco Valtas
 
-<audio src="https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/001-marco_valtas/001-marco_valtas_editado_128.mp3" preload="none" />
+<audio src="http://files.tecnologicamentearretado.com.br/entrevistas/001-marco_valtas/001-marco_valtas_editado_128.mp3" preload="none" />
 
-Baixe o áudio desta conversa [aqui](https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/001-marco_valtas/001-marco_valtas_editado_128.mp3).
+Baixe o áudio desta conversa [aqui](http://files.tecnologicamentearretado.com.br/entrevistas/001-marco_valtas/001-marco_valtas_editado_128.mp3).
 
 Notas:
 
