@@ -7,14 +7,14 @@ layout: nil
     <title>Tecnologicamente Arretado</title>
     <link>http://tecnologicamentearretado.com.br</link>
     <language>pt</language>
-    <copyright>&#xA9; 2015 Gregório Melo</copyright>
+    <copyright>&#xA9; 2015 Gregório Melo e Marco Valtas</copyright>
     <itunes:subtitle>Um podcast arretado sobre tecnologia</itunes:subtitle>
-    <itunes:author>Gregório Melo</itunes:author>
+    <itunes:author>Gregório Melo e Marco Valtas</itunes:author>
     <itunes:keywords>desenvolvimento de software, tecnologia</itunes:keywords>
     <itunes:summary>Um podcast arretado sobre tecnologia</itunes:summary>
     <description>Um podcast arretado sobre tecnologia</description>
     <itunes:owner>
-      <itunes:name>Gregório Melo</itunes:name>
+      <itunes:name>Gregório Melo e Marco Valtas</itunes:name>
       <itunes:email>tecnologicamentearretado@gregoriomelo.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>no</itunes:explicit>
@@ -33,7 +33,7 @@ layout: nil
     {% for post in site.posts %}
       <item>
         <title>{{ post.title }}</title>
-        <itunes:author>Gregório Melo</itunes:author>
+        <itunes:author>Gregório Melo e Marco Valtas</itunes:author>
         <itunes:subtitle>{{ post.title }}</itunes:subtitle>
         <itunes:summary>{{ post.summary | xml_escape }} | http://{{ site.url }}{{ post.url }}</itunes:summary>
         <description><![CDATA[{{ post.summary | xml_escape }} | http://{{ site.url }}{{ post.url }}]]></description>
