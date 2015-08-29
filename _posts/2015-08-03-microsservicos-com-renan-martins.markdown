@@ -6,7 +6,7 @@ disqus: y
 share:  y
 duration: "01:08:30"
 length: 132319957
-link: https://s3-sa-east-1.amazonaws.com/tecnologicamentearretado/entrevistas/014-renan_martins/014-renan_martins.m4a
+link: http://files.tecnologicamentearretado.com.br/entrevistas/014-renan_martins/014-renan_martins.m4a
 summary: "Gregório e Marco se empolgam muito numa conversa bacana sobre microsserviços com Renan Martins"
 categories: 
 ---
