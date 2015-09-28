@@ -11,7 +11,7 @@ summary: Gregório recebe Luiza Nunes para conversar sobre análise de qualidade
 categories: 
 ---
 
-Entrega contínua com Marco Valtas
+Análise de qualidade com Luiza Nunes
 
 <audio src="http://files.tecnologicamentearretado.com.br/entrevistas/018-luiza_nunes/018-luiza_nunes.m4a" preload="none" />
 
