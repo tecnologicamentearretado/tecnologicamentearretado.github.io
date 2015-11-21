@@ -17,13 +17,6 @@ Evite utilizar o teclado e o mouse durante a gravação, nosso poderosos
 microfones captam tudo e na mairia das vezes não é possível removê-los durante
 a edição.
 
-Quanto aos 'Ééé...', 'hmmmm' e afins, a equipe que edita os áudios quase sempre
-consegue removê-los. Sorte do Gregório, que tem um hábito terrível de gastar
-metade da conversa repetindo 'Éééééé...'
-
-Conteúdo também pode ser removido. Então, se a piada não ficou boa, a gente
-edita.
-
 ### Conteúdo
 
 Normalmente, a nossa assessoria de imprensa manda um roteiro antes da conversa.
