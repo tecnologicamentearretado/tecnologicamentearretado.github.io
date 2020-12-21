@@ -6,16 +6,16 @@ disqus: y
 share:  y
 duration: "49:26"
 length: 95506561
-link: http://files.tecnologicamentearretado.com.br/entrevistas/021-luciano_ramalho/021-luciano_ramalho.m4a
+link: https://tecnologicamentearretado.s3-sa-east-1.amazonaws.com/entrevistas/021-luciano_ramalho/021-luciano_ramalho.m4a
 summary: "Gregório e Marco conversam com Luciano Ramalho sobre Python e Internet das coisas"
 categories: 
 ---
 
 Gregório e Marco conversam com Luciano Ramalho sobre Python e Internet das coisas
 
-<audio src="http://files.tecnologicamentearretado.com.br/entrevistas/021-luciano_ramalho/021-luciano_ramalho.m4a" preload="none" />
+<audio src="https://tecnologicamentearretado.s3-sa-east-1.amazonaws.com/entrevistas/021-luciano_ramalho/021-luciano_ramalho.m4a" preload="none" />
 
-Baixe o áudio desta conversa [aqui](http://files.tecnologicamentearretado.com.br/entrevistas/021-luciano_ramalho/021-luciano_ramalho.m4a).
+Baixe o áudio desta conversa [aqui](https://tecnologicamentearretado.s3-sa-east-1.amazonaws.com/entrevistas/021-luciano_ramalho/021-luciano_ramalho.m4a).
 
 Entrevista por [Gregório Melo](https://twitter.com/gregoriomelo) e [Marco Valtas](https://twitter.com/mavcunha)
 

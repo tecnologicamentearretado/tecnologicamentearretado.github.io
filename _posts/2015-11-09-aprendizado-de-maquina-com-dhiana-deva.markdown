@@ -6,16 +6,16 @@ disqus: y
 share:  y
 duration: "55:28"
 length: 107155840
-link: http://files.tecnologicamentearretado.com.br/entrevistas/022-dhiana_deva/022-dhiana_deva.m4a
+link: https://tecnologicamentearretado.s3-sa-east-1.amazonaws.com/entrevistas/022-dhiana_deva/022-dhiana_deva.m4a
 summary: "Gregório e Marco conversam com Dhiana Deva sobre aprendizado de máquina"
 categories: 
 ---
 
 Gregório e Marco conversam com Dhiana Deva sobre aprendizado de máquina
 
-<audio src="http://files.tecnologicamentearretado.com.br/entrevistas/022-dhiana_deva/022-dhiana_deva.m4a" preload="none" />
+<audio src="https://tecnologicamentearretado.s3-sa-east-1.amazonaws.com/entrevistas/022-dhiana_deva/022-dhiana_deva.m4a" preload="none" />
 
-Baixe o áudio desta conversa [aqui](http://files.tecnologicamentearretado.com.br/entrevistas/022-dhiana_deva/022-dhiana_deva.m4a).
+Baixe o áudio desta conversa [aqui](https://tecnologicamentearretado.s3-sa-east-1.amazonaws.com/entrevistas/022-dhiana_deva/022-dhiana_deva.m4a).
 
 Entrevista por [Gregório Melo](https://twitter.com/gregoriomelo) e [Marco Valtas](https://twitter.com/mavcunha)
 

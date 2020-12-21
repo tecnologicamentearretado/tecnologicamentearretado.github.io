@@ -6,16 +6,16 @@ disqus: y
 share:  y
 duration: "52:22"
 length: 101169841
-link: http://files.tecnologicamentearretado.com.br/entrevistas/020-guilherme_tramontina/020-guilherme_tramontina.m4a
+link: https://tecnologicamentearretado.s3-sa-east-1.amazonaws.com/entrevistas/020-guilherme_tramontina/020-guilherme_tramontina.m4a
 summary: "Gregório e Marco conversam com Guilherme Tramontina sobre profissionalismo na TI"
 categories: 
 ---
 
 Gregório e Marco conversam com Guilherme Tramontina sobre profissionalismo na TI
 
-<audio src="http://files.tecnologicamentearretado.com.br/entrevistas/020-guilherme_tramontina/020-guilherme_tramontina.m4a" preload="none" />
+<audio src="https://tecnologicamentearretado.s3-sa-east-1.amazonaws.com/entrevistas/020-guilherme_tramontina/020-guilherme_tramontina.m4a" preload="none" />
 
-Baixe o áudio desta conversa [aqui](http://files.tecnologicamentearretado.com.br/entrevistas/020-guilherme_tramontina/020-guilherme_tramontina.m4a).
+Baixe o áudio desta conversa [aqui](https://tecnologicamentearretado.s3-sa-east-1.amazonaws.com/entrevistas/020-guilherme_tramontina/020-guilherme_tramontina.m4a).
 
 Entrevista por [Gregório Melo](https://twitter.com/gregoriomelo) e [Marco Valtas](https://twitter.com/mavcunha)
 

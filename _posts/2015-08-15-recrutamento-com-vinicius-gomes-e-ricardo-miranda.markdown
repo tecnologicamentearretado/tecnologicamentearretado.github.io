@@ -6,16 +6,16 @@ disqus: y
 share:  y
 duration: "40:35"
 length: 58962272
-link: http://files.tecnologicamentearretado.com.br/entrevistas/016-vinicius_e_ricardo/016-vinicius_e_ricardo.m4a
+link: https://tecnologicamentearretado.s3-sa-east-1.amazonaws.com/entrevistas/016-vinicius_e_ricardo/016-vinicius_e_ricardo.m4a
 summary: "Gregório conversa com Vinicius e Ricardo sobre como mandar bem nada busca por colegas de trabalho"
 categories: 
 ---
 
 Gregório conversa com Vinicius e Ricardo sobre como mandar bem nada busca por colegas de trabalho
 
-<audio src="http://files.tecnologicamentearretado.com.br/entrevistas/016-vinicius_e_ricardo/016-vinicius_e_ricardo.m4a" preload="none" />
+<audio src="https://tecnologicamentearretado.s3-sa-east-1.amazonaws.com/entrevistas/016-vinicius_e_ricardo/016-vinicius_e_ricardo.m4a" preload="none" />
 
-Baixe o áudio desta conversa [aqui](http://files.tecnologicamentearretado.com.br/entrevistas/016-vinicius_e_ricardo/016-vinicius_e_ricardo.m4a).
+Baixe o áudio desta conversa [aqui](https://tecnologicamentearretado.s3-sa-east-1.amazonaws.com/entrevistas/016-vinicius_e_ricardo/016-vinicius_e_ricardo.m4a).
 
 Entrevista por [Gregório Melo](https://twitter.com/gregoriomelo)
 

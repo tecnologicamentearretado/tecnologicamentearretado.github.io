@@ -6,16 +6,16 @@ disqus: y
 share:  y
 duration: "28:22"
 length: 54831125
-link: http://files.tecnologicamentearretado.com.br/entrevistas/018-luiza_nunes/018-luiza_nunes.m4a
+link: https://tecnologicamentearretado.s3-sa-east-1.amazonaws.com/entrevistas/018-luiza_nunes/018-luiza_nunes.m4a
 summary: Gregório recebe Luiza Nunes para conversar sobre análise de qualidade
 categories: 
 ---
 
 Análise de qualidade com Luiza Nunes
 
-<audio src="http://files.tecnologicamentearretado.com.br/entrevistas/018-luiza_nunes/018-luiza_nunes.m4a" preload="none" />
+<audio src="https://tecnologicamentearretado.s3-sa-east-1.amazonaws.com/entrevistas/018-luiza_nunes/018-luiza_nunes.m4a" preload="none" />
 
-Baixe o áudio desta conversa [aqui](http://files.tecnologicamentearretado.com.br/entrevistas/018-luiza_nunes/018-luiza_nunes.m4a).
+Baixe o áudio desta conversa [aqui](https://tecnologicamentearretado.s3-sa-east-1.amazonaws.com/entrevistas/018-luiza_nunes/018-luiza_nunes.m4a).
 
 Notas:
 
